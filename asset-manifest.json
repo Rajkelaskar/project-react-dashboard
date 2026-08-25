@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/project-react-dashboard/static/css/main.36405ef3.css",
+    "main.js": "/project-react-dashboard/static/js/main.739af120.js",
+    "index.html": "/project-react-dashboard/index.html",
+    "main.36405ef3.css.map": "/project-react-dashboard/static/css/main.36405ef3.css.map",
+    "main.739af120.js.map": "/project-react-dashboard/static/js/main.739af120.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.36405ef3.css",
+    "static/js/main.739af120.js"
+  ]
+}
